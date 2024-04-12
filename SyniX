@@ -1,8 +1,4 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
+-- SYNIX FLY
 local flyv1 = Instance.new("ScreenGui")
 local backgrondfly = Instance.new("Frame")
 local logoSyn = Instance.new("ImageLabel")
